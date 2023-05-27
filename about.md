@@ -1,7 +1,7 @@
-<img align="center" src="https://i.giphy.com/media/uRPaR4nAKn2HC/giphy.webp">
+<img alt="uwu" align="center" src="https://i.giphy.com/media/uRPaR4nAKn2HC/giphy.webp">
 <!-- <img align="right" src='https://i.giphy.com/media/y93slPbDMdeXJQONHa/giphy.webp' width='200"'> -->
 
-»  Code that kind of works, iustration, viola, drums, kimchi jjigae\
+»  Code that kind of works, illustration, viola, drums, kimchi jjigae\
 »  Eng/ 廣東話/ 普通話 ok
 
 #### Contact
