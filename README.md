@@ -1,3 +1,4 @@
+## Hi!
 <img alt="uwu" align="center" src="https://i.giphy.com/media/uRPaR4nAKn2HC/giphy.webp">
 <!-- <img align="right" src='https://i.giphy.com/media/y93slPbDMdeXJQONHa/giphy.webp' width='200"'> -->
 
@@ -11,6 +12,8 @@
 
 #### Languages/ tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289d9?style=for-the-badge&logo=discord&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
